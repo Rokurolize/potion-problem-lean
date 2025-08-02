@@ -1,0 +1,29 @@
+# Lake build artifacts
+.lake/
+build/
+lake-packages/
+
+# Editor/IDE specific
+.vscode/
+*.code-workspace
+
+# MCP and Serena configuration
+.mcp.json
+.serena/
+
+# Temporary/debug files
+*.txt
+fwIn.txt
+fwOut.txt
+wdErr.txt
+wdIn.txt
+wdOut.txt
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*~
+*.swp
