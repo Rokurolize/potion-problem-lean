@@ -19,6 +19,9 @@ wdErr.txt
 wdIn.txt
 wdOut.txt
 
+# Prompt files
+prompt/
+
 # OS specific
 .DS_Store
 Thumbs.db
